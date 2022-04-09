@@ -1,0 +1,265 @@
+|*{
+    margin: 0;
+}
+
+@media(100px) {
+    .fp{
+        margin-top: -3%;
+        margin-left: 85%;
+    }
+
+    .fa{
+        margin-top: -3%;
+        margin-left: 90%;
+    }
+    
+}
+
+body{
+    border-top: 10px solid rgb(158, 143, 174 );
+}
+
+a{
+    text-decoration: none;
+}
+
+.logo1{
+    display: flex;
+    margin: 60px 0 0 200px;
+}
+
+.logo {
+    display: flex;
+    margin: -50px 0 0 900px;
+}
+
+.logo a{
+    padding: 0 80px 0 0;
+    color: dimgray;
+    font-size: 20px;
+    font-family: 'Comfortaa', cursive;
+}
+
+.ph{
+    margin-left: 200px;
+    margin-top: 50px;
+    display: flex;
+    height: 710px;
+}
+
+.ph2{
+    margin-left: 800px;
+    margin-top: -500px;
+    display: flex;
+    font-size: 100px;
+    font-family: 'Klee One', cursive;
+    color: white;
+    text-shadow: rgb(158, 143, 174 ) 3px 3px 0px;
+}
+
+.ph3{
+    margin-left: 650px;
+    margin-top: 30px;
+    display: flex;
+    font-family: 'Klee One', cursive;
+    color: white;
+    font-size: 30px;
+    text-shadow:rgb(158, 143, 174 ) 3px 1px 0px;
+}
+
+.ph4{
+    margin-left: 200px;
+    margin-top: -110px;
+    display: flex;
+}
+
+.ph5{
+    margin-left: 205px;
+    margin-top: -50px;
+    display: flex;
+}
+
+.ph6{
+    margin-left: 1655px;
+    margin-top: -50px;
+    display: flex;
+}
+
+.ph7{
+    margin-left: 1664px;
+    margin-top: -50px;
+    display: flex;
+}
+
+.li{
+    width: 1500px;
+    height: 3px;
+    background-color: lightgray;
+    margin-top: 470px;
+    margin-left: 200px;
+    border-radius: 20px;
+}
+
+.ph8{
+    display: flex;
+    margin-left: 300px;
+    margin-top: 30px;
+    font-family: 'Caveat', cursive;
+    color: rgb(158, 143, 174 );
+    font-size: 30px;
+}
+
+.ph20{
+    max-width: 1000px;
+    margin-left: 575px;
+    margin-top: -38px;
+    font-family: 'Caveat', cursive;
+    color: black;
+    font-size: 30px;
+}
+
+.la{
+    width: 1500px;
+    height: 3px;
+    background-color: lightgray;
+    margin-top: 30px;
+    margin-left: 200px;
+    border-radius: 20px;
+    display: flex;
+}
+
+.io{
+    margin-top: 80px;
+    margin-left: 500px;
+    display: flex;
+}
+
+.te{
+    margin-top: -270px;
+    margin-left: 900px;
+    color: dimgray;
+    font-family: 'Caveat', cursive;
+font-family: 'Klee One', cursive;
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+}
+
+.tt{
+    max-width: 700px;
+    margin-top: 30px;
+    margin-left: 900px;
+    color: lightgray;
+    font-family: 'Caveat', cursive;
+font-family: 'Klee One', cursive;
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+}
+
+.e{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 230px;
+    color: black;
+    font-family: 'Caveat', cursive;
+font-family: 'Klee One', cursive;
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+}
+
+.er{
+    display: flex;
+    margin-top: -60px;
+    margin-left: 580px;
+}
+
+.eu{
+    display: flex;
+    margin-top: -113px;
+    margin-left: 320px;
+    color: black;
+    font-family: 'Caveat', cursive;
+font-family: 'Klee One', cursive;
+font-family: 'Roboto', sans-serif;
+font-size: 30px;
+}
+
+.jo{
+    margin-top: 50px;
+    margin-left: 450px;
+    display: flex;
+}
+
+.tnt{
+
+    margin-top: -55px;
+    margin-left: 470px;
+}
+
+.iq{
+    margin-top: -52px;
+    margin-left: 680px;
+}
+
+.f{
+    margin-top: -55px;
+    margin-left: 700px;
+}
+
+.ii{
+    margin-top: -50px;
+    margin-left: 880px;
+}
+
+.A{
+    margin-top: -60px;
+    margin-left: 900px;
+}
+
+.ia{
+    margin-top: -58px;
+    margin-left: 1150px;
+}
+
+.Af{
+    margin-top: -60px;
+    margin-left: 1220px;
+}
+
+.ou{
+    width: 1887px;
+    height: 80px;
+    background-color: lightgray;
+    margin-top: 80px;
+    display: flex;
+}
+
+.fa{
+    margin-top: -3%;
+    margin-left: 90%;
+}
+
+.fp{
+    margin-top: -3%;
+    margin-left: 85%;
+}
+
+.fq{
+    margin-top: -30px;
+    margin-left: 220px;
+    color: dimgray;
+    font-family: 'Caveat', cursive;
+    font-family: 'Klee One', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.yo{
+border-top: 10px solid rgb(158, 143, 174 );
+margin-top: 23px;
+width: 1888px;
+}
+
+.op{
+    font-size: 100px;
+    font-family: 'Klee One', cursive;
+    color: white;
+}
