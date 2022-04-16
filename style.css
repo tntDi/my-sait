@@ -2,7 +2,7 @@
     margin: 0;
 }
 
-@media(100px) {
+@media (100px) {
     .fp{
         margin-top: -3%;
         margin-left: 85%;
@@ -254,7 +254,7 @@ font-size: 30px;
 
 .yo{
 border-top: 10px solid rgb(158, 143, 174 );
-margin-top: 23px;
+margin-top: 1%;
 width: 1888px;
 }
 
